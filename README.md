@@ -13,5 +13,6 @@ This repository is full of Desgin & Analysis of Algorithm (DAA) Codes from basic
 5. Exp 05 - Knapsack :-
            a. Zero one Knapsack
            b. Fractional Knapsack
+6. EXP 06 - Dijkstra alogorithm
    
 
