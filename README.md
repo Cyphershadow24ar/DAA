@@ -14,7 +14,7 @@ This repository is full of Desgin & Analysis of Algorithm (DAA) Codes from basic
            a. Zero one Knapsack
            b. Fractional Knapsack
 6. EXP 06 - Dijkstra alogorithm
-7. EXP 07 -
+7. EXP 07 - Bellmen Ford algorithm
 8. EXP 08 - FLyod Warshell ALgorithm
 9. EXP 09 - Sum of Subsets
    
