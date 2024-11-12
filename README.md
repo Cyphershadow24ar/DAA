@@ -1,6 +1,7 @@
 # DAA
 
 This repository is full of Desgin & Analysis of Algorithm (DAA) Codes from basics to advance.
+
 # The Experiments are :-
 1. Exp 01- Binary Sreach Tree :-
            a. Traversal
@@ -16,6 +17,6 @@ This repository is full of Desgin & Analysis of Algorithm (DAA) Codes from basic
 7. EXP 07 - Bellmen Ford algorithm
 8. EXP 08 - FLyod Warshell ALgorithm
 9. EXP 09 - Sum of Subsets
-10. EXP 10 - Robin Karp Algorithm
+10. EXP 10 - Robin Karp Algorithm, Navie String Matching
    
 
